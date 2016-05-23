@@ -3,14 +3,14 @@ layout: page
 title: Leap
 subtitle: Download the latest version of openSUSE Leap, for desktop PCs, laptops, and servers. 
 ---
-## Installation Media - Intel 64-bit (x86_64)
+## Installation Media - x86_64 (Intel / AMD 64-bit)
 
 | Leap 42.1 | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
 | DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
 | Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
 
-openSUSE Leap is also available on other architectures, such as AArch64 (aka ARMv8) and PPC64.  
+openSUSE Leap is also available on other architectures, such as AArch64 (ARM64) and PPC64 (POWER).  
 [Get openSUSE Leap for other architectures.]({{ site.url }}/leap/ports)
 
 ## Choosing Which Media to Download
